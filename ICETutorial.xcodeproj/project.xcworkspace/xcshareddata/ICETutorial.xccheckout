@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>B8F1B435-3F35-40D7-946A-F991D6373060</string>
+	<key>IDESourceControlProjectName</key>
+	<string>ICETutorial</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>C8C37376-53E0-4919-905F-7586411BACD3</key>
+		<string>https://github.com/ZachNagengast/ICETutorial.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>ICETutorial.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>C8C37376-53E0-4919-905F-7586411BACD3</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/ZachNagengast/ICETutorial.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>C8C37376-53E0-4919-905F-7586411BACD3</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>C8C37376-53E0-4919-905F-7586411BACD3</string>
+			<key>IDESourceControlWCCName</key>
+			<string>ICETutorial</string>
+		</dict>
+	</array>
+</dict>
+</plist>
