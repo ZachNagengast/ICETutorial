@@ -5,19 +5,31 @@
 	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
 	<false/>
 	<key>IDESourceControlProjectIdentifier</key>
+<<<<<<< HEAD
 	<string>A362E604-337A-4C39-9CC1-179988709426</string>
+=======
+	<string>B8F1B435-3F35-40D7-946A-F991D6373060</string>
+>>>>>>> 988342643e177066a29069a9a5f305f864a55539
 	<key>IDESourceControlProjectName</key>
 	<string>ICETutorial</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
+<<<<<<< HEAD
 		<key>564DC9B4-7624-4A13-9CC7-70CBC46C99D5</key>
+=======
+		<key>C8C37376-53E0-4919-905F-7586411BACD3</key>
+>>>>>>> 988342643e177066a29069a9a5f305f864a55539
 		<string>https://github.com/ZachNagengast/ICETutorial.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
 	<string>ICETutorial.xcodeproj/project.xcworkspace</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
+<<<<<<< HEAD
 		<key>564DC9B4-7624-4A13-9CC7-70CBC46C99D5</key>
+=======
+		<key>C8C37376-53E0-4919-905F-7586411BACD3</key>
+>>>>>>> 988342643e177066a29069a9a5f305f864a55539
 		<string>../..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
@@ -25,14 +37,22 @@
 	<key>IDESourceControlProjectVersion</key>
 	<integer>110</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
+<<<<<<< HEAD
 	<string>564DC9B4-7624-4A13-9CC7-70CBC46C99D5</string>
+=======
+	<string>C8C37376-53E0-4919-905F-7586411BACD3</string>
+>>>>>>> 988342643e177066a29069a9a5f305f864a55539
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
 		<dict>
 			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
 			<string>public.vcs.git</string>
 			<key>IDESourceControlWCCIdentifierKey</key>
+<<<<<<< HEAD
 			<string>564DC9B4-7624-4A13-9CC7-70CBC46C99D5</string>
+=======
+			<string>C8C37376-53E0-4919-905F-7586411BACD3</string>
+>>>>>>> 988342643e177066a29069a9a5f305f864a55539
 			<key>IDESourceControlWCCName</key>
 			<string>ICETutorial</string>
 		</dict>
