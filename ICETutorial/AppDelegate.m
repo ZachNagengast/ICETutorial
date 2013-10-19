@@ -16,8 +16,8 @@
     self.window = [[UIWindow alloc] initWithFrame:[[UIScreen mainScreen] bounds]];
     
     // Init the pages texts, and pictures.
-    ICETutorialPage *layer1 = [[ICETutorialPage alloc] initWithSubTitle:@"Antonis Test yo"
-                                                            description:@"To America yo"
+    ICETutorialPage *layer1 = [[ICETutorialPage alloc] initWithSubTitle:@"Antonis Test yolanda"
+                                                            description:@"To America yolanda"
                                                             pictureName:@"tutorial_background_00@2x.jpg"];
     ICETutorialPage *layer2 = [[ICETutorialPage alloc] initWithSubTitle:@"Picture 2"
                                                             description:@"The Eiffel Tower with\n cloudy weather"
