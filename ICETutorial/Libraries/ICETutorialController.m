@@ -193,7 +193,7 @@
 // Setup the Title Label.
 - (void)setOverlayTitle{
     // ...or change by an UIImageView if you need it.
-    [_overlayTitle setText:@"Welcome"];
+    [_overlayTitle setText:@"Hi"];
 }
 
 // Setup the SubTitle/Description style/text.
