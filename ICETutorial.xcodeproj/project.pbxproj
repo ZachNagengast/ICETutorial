@@ -34,6 +34,7 @@
 		FEEBDBEE1813642B006EB4DF /* monumentHowWeDoIt-valley-4397-1366x768.png in Resources */ = {isa = PBXBuildFile; fileRef = FEEBDBED1813642B006EB4DF /* monumentHowWeDoIt-valley-4397-1366x768.png */; };
 		FEEBDBF018136660006EB4DF /* monumentHowWe-valley-4397-1366x768.png in Resources */ = {isa = PBXBuildFile; fileRef = FEEBDBEF18136660006EB4DF /* monumentHowWe-valley-4397-1366x768.png */; };
 		FEEBDBF21813671A006EB4DF /* monumentHowWe-valley-4397-1366x768.png in Resources */ = {isa = PBXBuildFile; fileRef = FEEBDBF118136719006EB4DF /* monumentHowWe-valley-4397-1366x768.png */; };
+		FEEBDBF418136B4A006EB4DF /* monumentSlide1-valley-4397-1366x768.png in Resources */ = {isa = PBXBuildFile; fileRef = FEEBDBF318136B4A006EB4DF /* monumentSlide1-valley-4397-1366x768.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -70,6 +71,7 @@
 		FEEBDBED1813642B006EB4DF /* monumentHowWeDoIt-valley-4397-1366x768.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "monumentHowWeDoIt-valley-4397-1366x768.png"; sourceTree = "<group>"; };
 		FEEBDBEF18136660006EB4DF /* monumentHowWe-valley-4397-1366x768.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "monumentHowWe-valley-4397-1366x768.png"; sourceTree = "<group>"; };
 		FEEBDBF118136719006EB4DF /* monumentHowWe-valley-4397-1366x768.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "monumentHowWe-valley-4397-1366x768.png"; sourceTree = "<group>"; };
+		FEEBDBF318136B4A006EB4DF /* monumentSlide1-valley-4397-1366x768.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "monumentSlide1-valley-4397-1366x768.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -116,6 +118,7 @@
 		80A2904417115756004EA534 /* Resources */ = {
 			isa = PBXGroup;
 			children = (
+				FEEBDBF318136B4A006EB4DF /* monumentSlide1-valley-4397-1366x768.png */,
 				FEEBDBF118136719006EB4DF /* monumentHowWe-valley-4397-1366x768.png */,
 				FEEBDBEF18136660006EB4DF /* monumentHowWe-valley-4397-1366x768.png */,
 				FEEBDBED1813642B006EB4DF /* monumentHowWeDoIt-valley-4397-1366x768.png */,
@@ -232,6 +235,7 @@
 				CD6955F717C9120E0003ECA5 /* Default.png in Resources */,
 				CD6955F817C9120E0003ECA5 /* Default@2x.png in Resources */,
 				FEEBDBF21813671A006EB4DF /* monumentHowWe-valley-4397-1366x768.png in Resources */,
+				FEEBDBF418136B4A006EB4DF /* monumentSlide1-valley-4397-1366x768.png in Resources */,
 				CD6955F917C9120E0003ECA5 /* tutorial_background_00@2x.jpg in Resources */,
 				CD6955FA17C9120E0003ECA5 /* tutorial_background_01@2x.jpg in Resources */,
 				CD6955FB17C9120E0003ECA5 /* tutorial_background_02@2x.jpg in Resources */,
