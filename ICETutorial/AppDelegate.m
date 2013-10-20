@@ -16,12 +16,12 @@
     self.window = [[UIWindow alloc] initWithFrame:[[UIScreen mainScreen] bounds]];
     
     // Init the pages texts, and pictures.
-    ICETutorialPage *layer1 = [[ICETutorialPage alloc] initWithSubTitle:@"Antonis Test good antonyBranch job"
-                                                            description:@"To America yolanda"
-                                                            pictureName:@"tutorial_background_00@2x.jpg"];
+    ICETutorialPage *layer1 = [[ICETutorialPage alloc] initWithSubTitle:@"A limitless world\n open to all Pocket users"
+                                                            description:@"View and share\n interesting articles, videos or web pages "
+                                                            pictureName:@"monument-valley-4397-1366x768.jpg"];
     ICETutorialPage *layer2 = [[ICETutorialPage alloc] initWithSubTitle:@"Picture 2"
                                                             description:@"The Eiffel Tower with\n cloudy weather"
-                                                            pictureName:@"tutorial_background_01@2x.jpg"];
+                                                            pictureName:@"monumentHowWe-valley-4397-1366x768.png"];
     ICETutorialPage *layer3 = [[ICETutorialPage alloc] initWithSubTitle:@"Picture 3"
                                                             description:@"An other famous street of Paris"
                                                             pictureName:@"tutorial_background_02@2x.jpg"];
