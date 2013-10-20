@@ -26,7 +26,7 @@
                                                             description:@"An other famous street of Paris"
                                                             pictureName:@"tutorial_background_02@2x.jpg"];
     ICETutorialPage *layer4 = [[ICETutorialPage alloc] initWithSubTitle:@"Picture 4"
-                                                            description:@"The Eiffel Tower with a better weather"
+                                                            description:@"The Eiffel tower with a better weather"
                                                             pictureName:@"tutorial_background_03@2x.jpg"];
     ICETutorialPage *layer5 = [[ICETutorialPage alloc] initWithSubTitle:@"Picture 5"
                                                             description:@"The Louvre's Museum Pyramide"
