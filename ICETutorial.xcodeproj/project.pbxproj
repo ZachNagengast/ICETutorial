@@ -29,6 +29,11 @@
 		CDC0638B17006175004E4142 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = CDC0638A17006175004E4142 /* UIKit.framework */; };
 		CDC0638D17006175004E4142 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = CDC0638C17006175004E4142 /* Foundation.framework */; };
 		CDC0638F17006175004E4142 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = CDC0638E17006175004E4142 /* CoreGraphics.framework */; };
+		FEEBDBEA18134B07006EB4DF /* monument-valley-4397-1366x768.jpg in Resources */ = {isa = PBXBuildFile; fileRef = FEEBDBE918134B07006EB4DF /* monument-valley-4397-1366x768.jpg */; };
+		FEEBDBEC18135E7C006EB4DF /* HowItWorks.png in Resources */ = {isa = PBXBuildFile; fileRef = FEEBDBEB18135E7C006EB4DF /* HowItWorks.png */; };
+		FEEBDBEE1813642B006EB4DF /* monumentHowWeDoIt-valley-4397-1366x768.png in Resources */ = {isa = PBXBuildFile; fileRef = FEEBDBED1813642B006EB4DF /* monumentHowWeDoIt-valley-4397-1366x768.png */; };
+		FEEBDBF018136660006EB4DF /* monumentHowWe-valley-4397-1366x768.png in Resources */ = {isa = PBXBuildFile; fileRef = FEEBDBEF18136660006EB4DF /* monumentHowWe-valley-4397-1366x768.png */; };
+		FEEBDBF21813671A006EB4DF /* monumentHowWe-valley-4397-1366x768.png in Resources */ = {isa = PBXBuildFile; fileRef = FEEBDBF118136719006EB4DF /* monumentHowWe-valley-4397-1366x768.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -60,6 +65,11 @@
 		CDC0638A17006175004E4142 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
 		CDC0638C17006175004E4142 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		CDC0638E17006175004E4142 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
+		FEEBDBE918134B07006EB4DF /* monument-valley-4397-1366x768.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "monument-valley-4397-1366x768.jpg"; sourceTree = "<group>"; };
+		FEEBDBEB18135E7C006EB4DF /* HowItWorks.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = HowItWorks.png; sourceTree = "<group>"; };
+		FEEBDBED1813642B006EB4DF /* monumentHowWeDoIt-valley-4397-1366x768.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "monumentHowWeDoIt-valley-4397-1366x768.png"; sourceTree = "<group>"; };
+		FEEBDBEF18136660006EB4DF /* monumentHowWe-valley-4397-1366x768.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "monumentHowWe-valley-4397-1366x768.png"; sourceTree = "<group>"; };
+		FEEBDBF118136719006EB4DF /* monumentHowWe-valley-4397-1366x768.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "monumentHowWe-valley-4397-1366x768.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,6 +116,11 @@
 		80A2904417115756004EA534 /* Resources */ = {
 			isa = PBXGroup;
 			children = (
+				FEEBDBF118136719006EB4DF /* monumentHowWe-valley-4397-1366x768.png */,
+				FEEBDBEF18136660006EB4DF /* monumentHowWe-valley-4397-1366x768.png */,
+				FEEBDBED1813642B006EB4DF /* monumentHowWeDoIt-valley-4397-1366x768.png */,
+				FEEBDBEB18135E7C006EB4DF /* HowItWorks.png */,
+				FEEBDBE918134B07006EB4DF /* monument-valley-4397-1366x768.jpg */,
 				CD6955E617C9120E0003ECA5 /* background-gradient.png */,
 				CD6955E717C9120E0003ECA5 /* background-gradient@2x.png */,
 				CD6955E817C9120E0003ECA5 /* button-background.png */,
@@ -203,15 +218,20 @@
 			buildActionMask = 2147483647;
 			files = (
 				CDAD68DE17C4CAB600737949 /* InfoPlist.strings in Resources */,
+				FEEBDBEC18135E7C006EB4DF /* HowItWorks.png in Resources */,
+				FEEBDBEA18134B07006EB4DF /* monument-valley-4397-1366x768.jpg in Resources */,
 				80A29027171156F6004EA534 /* ICETutorialController_iPad.xib in Resources */,
 				80A29028171156F6004EA534 /* ICETutorialController_iPhone.xib in Resources */,
 				CD6955F217C9120E0003ECA5 /* background-gradient.png in Resources */,
 				CD6955F317C9120E0003ECA5 /* background-gradient@2x.png in Resources */,
+				FEEBDBF018136660006EB4DF /* monumentHowWe-valley-4397-1366x768.png in Resources */,
 				CD6955F417C9120E0003ECA5 /* button-background.png in Resources */,
+				FEEBDBEE1813642B006EB4DF /* monumentHowWeDoIt-valley-4397-1366x768.png in Resources */,
 				CD6955F517C9120E0003ECA5 /* button-background@2x.png in Resources */,
 				CD6955F617C9120E0003ECA5 /* Default-568h@2x.png in Resources */,
 				CD6955F717C9120E0003ECA5 /* Default.png in Resources */,
 				CD6955F817C9120E0003ECA5 /* Default@2x.png in Resources */,
+				FEEBDBF21813671A006EB4DF /* monumentHowWe-valley-4397-1366x768.png in Resources */,
 				CD6955F917C9120E0003ECA5 /* tutorial_background_00@2x.jpg in Resources */,
 				CD6955FA17C9120E0003ECA5 /* tutorial_background_01@2x.jpg in Resources */,
 				CD6955FB17C9120E0003ECA5 /* tutorial_background_02@2x.jpg in Resources */,

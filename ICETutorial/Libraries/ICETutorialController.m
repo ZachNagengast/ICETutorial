@@ -231,7 +231,7 @@
                                                                       _windowSize.width,
                                                                       TUTORIAL_LABEL_HEIGHT)];
     [overlayLabel setTranslatesAutoresizingMaskIntoConstraints:NO];
-    [overlayLabel setNumberOfLines:[commonStyle linesNumber]];
+    [overlayLabel setNumberOfLines:3];
     [overlayLabel setBackgroundColor:[UIColor clearColor]];
     [overlayLabel setTextAlignment:NSTextAlignmentCenter];  
 
