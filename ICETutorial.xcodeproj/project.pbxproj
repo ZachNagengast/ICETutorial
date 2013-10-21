@@ -41,6 +41,7 @@
 		FEEBDBFD1814B4BE006EB4DF /* CompleScreen3.png in Resources */ = {isa = PBXBuildFile; fileRef = FEEBDBFC1814B4BE006EB4DF /* CompleScreen3.png */; };
 		FEEBDC011814BB17006EB4DF /* BigSl3_Page_1.png in Resources */ = {isa = PBXBuildFile; fileRef = FEEBDC001814BB17006EB4DF /* BigSl3_Page_1.png */; };
 		FEEBDC041814C0A2006EB4DF /* BigSl4_Page.png in Resources */ = {isa = PBXBuildFile; fileRef = FEEBDC031814C0A2006EB4DF /* BigSl4_Page.png */; };
+		FEEBDC061814C68A006EB4DF /* Slide1.png in Resources */ = {isa = PBXBuildFile; fileRef = FEEBDC051814C68A006EB4DF /* Slide1.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -85,6 +86,7 @@
 		FEEBDBFC1814B4BE006EB4DF /* CompleScreen3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = CompleScreen3.png; sourceTree = "<group>"; };
 		FEEBDC001814BB17006EB4DF /* BigSl3_Page_1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = BigSl3_Page_1.png; sourceTree = "<group>"; };
 		FEEBDC031814C0A2006EB4DF /* BigSl4_Page.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = BigSl4_Page.png; sourceTree = "<group>"; };
+		FEEBDC051814C68A006EB4DF /* Slide1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Slide1.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -131,6 +133,7 @@
 		80A2904417115756004EA534 /* Resources */ = {
 			isa = PBXGroup;
 			children = (
+				FEEBDC051814C68A006EB4DF /* Slide1.png */,
 				FEEBDC031814C0A2006EB4DF /* BigSl4_Page.png */,
 				FEEBDC001814BB17006EB4DF /* BigSl3_Page_1.png */,
 				FEEBDBFC1814B4BE006EB4DF /* CompleScreen3.png */,
@@ -255,6 +258,7 @@
 				CD6955F417C9120E0003ECA5 /* button-background.png in Resources */,
 				FEEBDBEE1813642B006EB4DF /* monumentHowWeDoIt-valley-4397-1366x768.png in Resources */,
 				CD6955F517C9120E0003ECA5 /* button-background@2x.png in Resources */,
+				FEEBDC061814C68A006EB4DF /* Slide1.png in Resources */,
 				CD6955F617C9120E0003ECA5 /* Default-568h@2x.png in Resources */,
 				FEEBDC041814C0A2006EB4DF /* BigSl4_Page.png in Resources */,
 				CD6955F717C9120E0003ECA5 /* Default.png in Resources */,
