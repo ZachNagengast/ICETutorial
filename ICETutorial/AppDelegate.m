@@ -21,13 +21,13 @@
                                                             pictureName:@"Slide1.png"];
     ICETutorialPage *layer2 = [[ICETutorialPage alloc] initWithSubTitle:@""
                                                             description:@"See interesting articles\n Pocket users have saved\n for later"
-                                                            pictureName:@"monumentHowWe-valley-4397-1366x768.png"];
-    ICETutorialPage *layer3 = [[ICETutorialPage alloc] initWithSubTitle:@"Picture 3"
-                                                            description:@"An other famous street of Paris"
-                                                            pictureName:@"tutorial_background_02@2x.jpg"];
-    ICETutorialPage *layer4 = [[ICETutorialPage alloc] initWithSubTitle:@"Picture 4"
-                                                            description:@"The Eiffel tower with a better weather"
-                                                            pictureName:@"tutorial_background_03@2x.jpg"];
+                                                            pictureName:@"Slide_two.jpg"];
+    ICETutorialPage *layer3 = [[ICETutorialPage alloc] initWithSubTitle:@""
+                                                            description:@"One screen. All the most\n relevant new media. "
+                                                            pictureName:@"BigSl4_Page.png"];
+    ICETutorialPage *layer4 = [[ICETutorialPage alloc] initWithSubTitle:@""
+                                                            description:@"Get Started with your Pocket username"
+                                                            pictureName:@"BigSl3_Page_1.png"];
     ICETutorialPage *layer5 = [[ICETutorialPage alloc] initWithSubTitle:@"Picture 5"
                                                             description:@"The Louvre's Museum Pyramide"
                                                             pictureName:@"tutorial_background_04@2x.jpg"];
