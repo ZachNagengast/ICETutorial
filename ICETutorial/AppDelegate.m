@@ -32,7 +32,7 @@
                                                             description:@"The Louvre's Museum Pyramide"
                                                             pictureName:@"tutorial_background_04@2x.jpg"];
     
-    // Set the common style for SubTitles and Description (can be overrided on each page).
+    // Set the common style for SubTitles and Description (can be overrided on each page)
     ICETutorialLabelStyle *subStyle = [[ICETutorialLabelStyle alloc] init];
     [subStyle setFont:TUTORIAL_SUB_TITLE_FONT];
     [subStyle setTextColor:TUTORIAL_LABEL_TEXT_COLOR];
