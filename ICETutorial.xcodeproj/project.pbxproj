@@ -35,6 +35,12 @@
 		FEEBDBF018136660006EB4DF /* monumentHowWe-valley-4397-1366x768.png in Resources */ = {isa = PBXBuildFile; fileRef = FEEBDBEF18136660006EB4DF /* monumentHowWe-valley-4397-1366x768.png */; };
 		FEEBDBF21813671A006EB4DF /* monumentHowWe-valley-4397-1366x768.png in Resources */ = {isa = PBXBuildFile; fileRef = FEEBDBF118136719006EB4DF /* monumentHowWe-valley-4397-1366x768.png */; };
 		FEEBDBF418136B4A006EB4DF /* monumentSlide1-valley-4397-1366x768.png in Resources */ = {isa = PBXBuildFile; fileRef = FEEBDBF318136B4A006EB4DF /* monumentSlide1-valley-4397-1366x768.png */; };
+		FEEBDBF618149F85006EB4DF /* Screen3Test.png in Resources */ = {isa = PBXBuildFile; fileRef = FEEBDBF518149F85006EB4DF /* Screen3Test.png */; };
+		FEEBDBF91814A9B7006EB4DF /* Slide_two.jpg in Resources */ = {isa = PBXBuildFile; fileRef = FEEBDBF81814A9B7006EB4DF /* Slide_two.jpg */; };
+		FEEBDBFB1814AE4C006EB4DF /* Screen_three.png in Resources */ = {isa = PBXBuildFile; fileRef = FEEBDBFA1814AE4C006EB4DF /* Screen_three.png */; };
+		FEEBDBFD1814B4BE006EB4DF /* CompleScreen3.png in Resources */ = {isa = PBXBuildFile; fileRef = FEEBDBFC1814B4BE006EB4DF /* CompleScreen3.png */; };
+		FEEBDC011814BB17006EB4DF /* BigSl3_Page_1.png in Resources */ = {isa = PBXBuildFile; fileRef = FEEBDC001814BB17006EB4DF /* BigSl3_Page_1.png */; };
+		FEEBDC041814C0A2006EB4DF /* BigSl4_Page.png in Resources */ = {isa = PBXBuildFile; fileRef = FEEBDC031814C0A2006EB4DF /* BigSl4_Page.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -72,6 +78,13 @@
 		FEEBDBEF18136660006EB4DF /* monumentHowWe-valley-4397-1366x768.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "monumentHowWe-valley-4397-1366x768.png"; sourceTree = "<group>"; };
 		FEEBDBF118136719006EB4DF /* monumentHowWe-valley-4397-1366x768.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "monumentHowWe-valley-4397-1366x768.png"; sourceTree = "<group>"; };
 		FEEBDBF318136B4A006EB4DF /* monumentSlide1-valley-4397-1366x768.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "monumentSlide1-valley-4397-1366x768.png"; sourceTree = "<group>"; };
+		FEEBDBF518149F85006EB4DF /* Screen3Test.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Screen3Test.png; sourceTree = "<group>"; };
+		FEEBDBF71814A8F9006EB4DF /* Slide_two.jpf */ = {isa = PBXFileReference; lastKnownFileType = file; path = Slide_two.jpf; sourceTree = "<group>"; };
+		FEEBDBF81814A9B7006EB4DF /* Slide_two.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Slide_two.jpg; sourceTree = "<group>"; };
+		FEEBDBFA1814AE4C006EB4DF /* Screen_three.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Screen_three.png; sourceTree = "<group>"; };
+		FEEBDBFC1814B4BE006EB4DF /* CompleScreen3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = CompleScreen3.png; sourceTree = "<group>"; };
+		FEEBDC001814BB17006EB4DF /* BigSl3_Page_1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = BigSl3_Page_1.png; sourceTree = "<group>"; };
+		FEEBDC031814C0A2006EB4DF /* BigSl4_Page.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = BigSl4_Page.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -118,6 +131,13 @@
 		80A2904417115756004EA534 /* Resources */ = {
 			isa = PBXGroup;
 			children = (
+				FEEBDC031814C0A2006EB4DF /* BigSl4_Page.png */,
+				FEEBDC001814BB17006EB4DF /* BigSl3_Page_1.png */,
+				FEEBDBFC1814B4BE006EB4DF /* CompleScreen3.png */,
+				FEEBDBFA1814AE4C006EB4DF /* Screen_three.png */,
+				FEEBDBF81814A9B7006EB4DF /* Slide_two.jpg */,
+				FEEBDBF71814A8F9006EB4DF /* Slide_two.jpf */,
+				FEEBDBF518149F85006EB4DF /* Screen3Test.png */,
 				FEEBDBF318136B4A006EB4DF /* monumentSlide1-valley-4397-1366x768.png */,
 				FEEBDBF118136719006EB4DF /* monumentHowWe-valley-4397-1366x768.png */,
 				FEEBDBEF18136660006EB4DF /* monumentHowWe-valley-4397-1366x768.png */,
@@ -221,19 +241,25 @@
 			buildActionMask = 2147483647;
 			files = (
 				CDAD68DE17C4CAB600737949 /* InfoPlist.strings in Resources */,
+				FEEBDBF618149F85006EB4DF /* Screen3Test.png in Resources */,
 				FEEBDBEC18135E7C006EB4DF /* HowItWorks.png in Resources */,
 				FEEBDBEA18134B07006EB4DF /* monument-valley-4397-1366x768.jpg in Resources */,
+				FEEBDC011814BB17006EB4DF /* BigSl3_Page_1.png in Resources */,
 				80A29027171156F6004EA534 /* ICETutorialController_iPad.xib in Resources */,
 				80A29028171156F6004EA534 /* ICETutorialController_iPhone.xib in Resources */,
 				CD6955F217C9120E0003ECA5 /* background-gradient.png in Resources */,
 				CD6955F317C9120E0003ECA5 /* background-gradient@2x.png in Resources */,
 				FEEBDBF018136660006EB4DF /* monumentHowWe-valley-4397-1366x768.png in Resources */,
+				FEEBDBF91814A9B7006EB4DF /* Slide_two.jpg in Resources */,
+				FEEBDBFB1814AE4C006EB4DF /* Screen_three.png in Resources */,
 				CD6955F417C9120E0003ECA5 /* button-background.png in Resources */,
 				FEEBDBEE1813642B006EB4DF /* monumentHowWeDoIt-valley-4397-1366x768.png in Resources */,
 				CD6955F517C9120E0003ECA5 /* button-background@2x.png in Resources */,
 				CD6955F617C9120E0003ECA5 /* Default-568h@2x.png in Resources */,
+				FEEBDC041814C0A2006EB4DF /* BigSl4_Page.png in Resources */,
 				CD6955F717C9120E0003ECA5 /* Default.png in Resources */,
 				CD6955F817C9120E0003ECA5 /* Default@2x.png in Resources */,
+				FEEBDBFD1814B4BE006EB4DF /* CompleScreen3.png in Resources */,
 				FEEBDBF21813671A006EB4DF /* monumentHowWe-valley-4397-1366x768.png in Resources */,
 				FEEBDBF418136B4A006EB4DF /* monumentSlide1-valley-4397-1366x768.png in Resources */,
 				CD6955F917C9120E0003ECA5 /* tutorial_background_00@2x.jpg in Resources */,
