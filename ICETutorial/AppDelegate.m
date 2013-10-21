@@ -24,10 +24,10 @@
                                                             pictureName:@"Slide_two.jpg"];
     ICETutorialPage *layer3 = [[ICETutorialPage alloc] initWithSubTitle:@""
                                                             description:@"One screen. All the most\n relevant new media. "
-                                                            pictureName:@"BigSl4_Page.png"];
+                                                            pictureName:@"monumentWbdropin4.png"];
     ICETutorialPage *layer4 = [[ICETutorialPage alloc] initWithSubTitle:@""
-                                                            description:@"Get Started with your Pocket username"
-                                                            pictureName:@"BigSl3_Page_1.png"];
+                                                            description:@"Infinite articles a\n swipe away from\n your Pocket bookmarks"
+                                                            pictureName:@"monumentWCdropin4.png"];
     ICETutorialPage *layer5 = [[ICETutorialPage alloc] initWithSubTitle:@"Picture 5"
                                                             description:@"The Louvre's Museum Pyramide"
                                                             pictureName:@"tutorial_background_04@2x.jpg"];

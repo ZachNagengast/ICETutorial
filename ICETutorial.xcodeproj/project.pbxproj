@@ -42,6 +42,11 @@
 		FEEBDC011814BB17006EB4DF /* BigSl3_Page_1.png in Resources */ = {isa = PBXBuildFile; fileRef = FEEBDC001814BB17006EB4DF /* BigSl3_Page_1.png */; };
 		FEEBDC041814C0A2006EB4DF /* BigSl4_Page.png in Resources */ = {isa = PBXBuildFile; fileRef = FEEBDC031814C0A2006EB4DF /* BigSl4_Page.png */; };
 		FEEBDC061814C68A006EB4DF /* Slide1.png in Resources */ = {isa = PBXBuildFile; fileRef = FEEBDC051814C68A006EB4DF /* Slide1.png */; };
+		FEEBDC081814CD73006EB4DF /* monumentWdropin3.png in Resources */ = {isa = PBXBuildFile; fileRef = FEEBDC071814CD73006EB4DF /* monumentWdropin3.png */; };
+		FEEBDC0C1814D0DF006EB4DF /* monumentWdropin4.png in Resources */ = {isa = PBXBuildFile; fileRef = FEEBDC0B1814D0DF006EB4DF /* monumentWdropin4.png */; };
+		FEEBDC0E1814D2B2006EB4DF /* monumentWadropin3.png in Resources */ = {isa = PBXBuildFile; fileRef = FEEBDC0D1814D2B2006EB4DF /* monumentWadropin3.png */; };
+		FEEBDC101814D599006EB4DF /* monumentWbdropin4.png in Resources */ = {isa = PBXBuildFile; fileRef = FEEBDC0F1814D599006EB4DF /* monumentWbdropin4.png */; };
+		FEEBDC121814D7AB006EB4DF /* monumentWCdropin4.png in Resources */ = {isa = PBXBuildFile; fileRef = FEEBDC111814D7AB006EB4DF /* monumentWCdropin4.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -87,6 +92,11 @@
 		FEEBDC001814BB17006EB4DF /* BigSl3_Page_1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = BigSl3_Page_1.png; sourceTree = "<group>"; };
 		FEEBDC031814C0A2006EB4DF /* BigSl4_Page.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = BigSl4_Page.png; sourceTree = "<group>"; };
 		FEEBDC051814C68A006EB4DF /* Slide1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Slide1.png; sourceTree = "<group>"; };
+		FEEBDC071814CD73006EB4DF /* monumentWdropin3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = monumentWdropin3.png; sourceTree = "<group>"; };
+		FEEBDC0B1814D0DF006EB4DF /* monumentWdropin4.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = monumentWdropin4.png; sourceTree = "<group>"; };
+		FEEBDC0D1814D2B2006EB4DF /* monumentWadropin3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = monumentWadropin3.png; sourceTree = "<group>"; };
+		FEEBDC0F1814D599006EB4DF /* monumentWbdropin4.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = monumentWbdropin4.png; sourceTree = "<group>"; };
+		FEEBDC111814D7AB006EB4DF /* monumentWCdropin4.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = monumentWCdropin4.png; path = ../monumentWCdropin4.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -133,6 +143,11 @@
 		80A2904417115756004EA534 /* Resources */ = {
 			isa = PBXGroup;
 			children = (
+				FEEBDC111814D7AB006EB4DF /* monumentWCdropin4.png */,
+				FEEBDC0F1814D599006EB4DF /* monumentWbdropin4.png */,
+				FEEBDC0D1814D2B2006EB4DF /* monumentWadropin3.png */,
+				FEEBDC0B1814D0DF006EB4DF /* monumentWdropin4.png */,
+				FEEBDC071814CD73006EB4DF /* monumentWdropin3.png */,
 				FEEBDC051814C68A006EB4DF /* Slide1.png */,
 				FEEBDC031814C0A2006EB4DF /* BigSl4_Page.png */,
 				FEEBDC001814BB17006EB4DF /* BigSl3_Page_1.png */,
@@ -255,6 +270,7 @@
 				FEEBDBF018136660006EB4DF /* monumentHowWe-valley-4397-1366x768.png in Resources */,
 				FEEBDBF91814A9B7006EB4DF /* Slide_two.jpg in Resources */,
 				FEEBDBFB1814AE4C006EB4DF /* Screen_three.png in Resources */,
+				FEEBDC081814CD73006EB4DF /* monumentWdropin3.png in Resources */,
 				CD6955F417C9120E0003ECA5 /* button-background.png in Resources */,
 				FEEBDBEE1813642B006EB4DF /* monumentHowWeDoIt-valley-4397-1366x768.png in Resources */,
 				CD6955F517C9120E0003ECA5 /* button-background@2x.png in Resources */,
@@ -262,6 +278,8 @@
 				CD6955F617C9120E0003ECA5 /* Default-568h@2x.png in Resources */,
 				FEEBDC041814C0A2006EB4DF /* BigSl4_Page.png in Resources */,
 				CD6955F717C9120E0003ECA5 /* Default.png in Resources */,
+				FEEBDC121814D7AB006EB4DF /* monumentWCdropin4.png in Resources */,
+				FEEBDC101814D599006EB4DF /* monumentWbdropin4.png in Resources */,
 				CD6955F817C9120E0003ECA5 /* Default@2x.png in Resources */,
 				FEEBDBFD1814B4BE006EB4DF /* CompleScreen3.png in Resources */,
 				FEEBDBF21813671A006EB4DF /* monumentHowWe-valley-4397-1366x768.png in Resources */,
@@ -269,7 +287,9 @@
 				CD6955F917C9120E0003ECA5 /* tutorial_background_00@2x.jpg in Resources */,
 				CD6955FA17C9120E0003ECA5 /* tutorial_background_01@2x.jpg in Resources */,
 				CD6955FB17C9120E0003ECA5 /* tutorial_background_02@2x.jpg in Resources */,
+				FEEBDC0C1814D0DF006EB4DF /* monumentWdropin4.png in Resources */,
 				CD6955FC17C9120E0003ECA5 /* tutorial_background_03@2x.jpg in Resources */,
+				FEEBDC0E1814D2B2006EB4DF /* monumentWadropin3.png in Resources */,
 				CD6955FD17C9120E0003ECA5 /* tutorial_background_04@2x.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
