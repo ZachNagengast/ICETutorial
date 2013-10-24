@@ -7,6 +7,7 @@
 //
 
 #import "ICETutorialController.h"
+#import "UIButton+Bootstrap.h"
 
 
 @interface ICETutorialController ()
@@ -19,6 +20,7 @@
 @synthesize autoScrollDurationOnPage = _autoScrollDurationOnPage;
 @synthesize commonPageSubTitleStyle = _commonPageSubTitleStyle;
 @synthesize commonPageDescriptionStyle = _commonPageDescriptionStyle;
+@synthesize startButton=_startButton;
 
 - (id)initWithNibName:(NSString *)nibNameOrNil
                bundle:(NSBundle *)nibBundleOrNil{
@@ -58,6 +60,7 @@
 {
     [super viewDidLoad];
     [[self view] setBackgroundColor:[UIColor blackColor]];
+    [_startButton infoStyle];
     
     _windowSize = [[UIScreen mainScreen] bounds].size;
     
@@ -354,8 +357,14 @@
 
 #pragma mark - ScrollView delegate
 - (void)scrollViewDidScroll:(UIScrollView *)scrollView{
+
     // Get scrolling position, and send the alpha values.
     float scrollingPosition = scrollView.contentOffset.x / _windowSize.width;
+    if (scrollingPosition>=3.85) {
+        [_startButton setHidden:false];
+        [_startButton setFont:[UIFont boldSystemFontOfSize:22]];
+    }else [_startButton setHidden:true];
+    
     [self disolveBackgroundWithContentOffset:scrollingPosition];
     
     if (_scrollView.isTracking)

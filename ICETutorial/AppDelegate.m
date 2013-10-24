@@ -26,11 +26,11 @@
                                                             description:@"One screen. All the most\n relevant new media. "
                                                             pictureName:@"monumentWbdropin4.png"];
     ICETutorialPage *layer4 = [[ICETutorialPage alloc] initWithSubTitle:@""
-                                                            description:@"Infinite articles a\n swipe away from\n your Pocket bookmarks"
+                                                            description:@"A swipe away from\n your Pocket."
                                                             pictureName:@"monumentWCdropin4.png"];
-    ICETutorialPage *layer5 = [[ICETutorialPage alloc] initWithSubTitle:@"Picture 5"
-                                                            description:@"The Louvre's Museum Pyramide"
-                                                            pictureName:@"tutorial_background_04@2x.jpg"];
+    ICETutorialPage *layer5 = [[ICETutorialPage alloc] initWithSubTitle:@""
+                                                            description:@"You're ready to go!"
+                                                            pictureName:@"monumentWdropin5.png"];
     
     // Set the common style for SubTitles and Description (can be overrided on each page)
     ICETutorialLabelStyle *subStyle = [[ICETutorialLabelStyle alloc] init];

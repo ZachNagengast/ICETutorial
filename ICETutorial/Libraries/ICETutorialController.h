@@ -14,7 +14,7 @@
 #define TUTORIAL_SUB_TITLE_FONT                 [UIFont fontWithName:@"Helvetica-Bold" size:17.0f]
 #define TUTORIAL_SUB_TITLE_LINES_NUMBER         1
 #define TUTORIAL_SUB_TITLE_OFFSET               200
-#define TUTORIAL_DESC_FONT                      [UIFont fontWithName:@"Helvetica" size:15.0f]
+#define TUTORIAL_DESC_FONT                      [UIFont fontWithName:@"Helvetica-Neue" size:15.0f]
 #define TUTORIAL_DESC_LINES_NUMBER              2
 #define TUTORIAL_DESC_OFFSET                    150
 #define TUTORIAL_DEFAULT_DURATION_ON_PAGE       3.0f
@@ -34,6 +34,7 @@ typedef void (^ButtonBlock)(UIButton *button);
     __weak IBOutlet UILabel *_overlayTitle;
     __weak IBOutlet UIScrollView *_scrollView;
     __weak IBOutlet UIPageControl *_pageControl;
+    IBOutlet UIButton *_startButton;
     
     CGSize _windowSize;
     ScrollingState _currentState;
@@ -57,7 +58,7 @@ typedef void (^ButtonBlock)(UIButton *button);
 @property (nonatomic, assign) CGFloat autoScrollDurationOnPage;
 @property (nonatomic, retain) ICETutorialLabelStyle *commonPageSubTitleStyle;
 @property (nonatomic, retain) ICETutorialLabelStyle *commonPageDescriptionStyle;
-
+@property (nonatomic, retain) UIButton *startButton;
 // Inits.
 - (id)initWithNibName:(NSString *)nibNameOrNil
                bundle:(NSBundle *)nibBundleOrNil;
