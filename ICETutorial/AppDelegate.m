@@ -30,7 +30,7 @@
                                                             pictureName:@"monumentWCdropin4.png"];
     ICETutorialPage *layer5 = [[ICETutorialPage alloc] initWithSubTitle:@""
                                                             description:@"You're ready to go!"
-                                                            pictureName:@"monumentWdropin5.png"];
+                                                            pictureName:@"m1.png"];
     
     // Set the common style for SubTitles and Description (can be overrided on each page)
     ICETutorialLabelStyle *subStyle = [[ICETutorialLabelStyle alloc] init];

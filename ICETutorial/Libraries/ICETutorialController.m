@@ -57,7 +57,9 @@
 }
 
 - (void)viewDidLoad
+
 {
+
     [super viewDidLoad];
     [[self view] setBackgroundColor:[UIColor blackColor]];
     [_startButton infoStyle];
@@ -201,7 +203,8 @@
 
 // Setup the SubTitle/Description style/text.
 - (void)setOverlayTexts{
-    int index = 0;    
+    int index = 0;
+
     for(ICETutorialPage *page in _pages){
         // SubTitles.
         if ([[[page subTitle] text] length]){
@@ -357,23 +360,30 @@
 
 #pragma mark - ScrollView delegate
 - (void)scrollViewDidScroll:(UIScrollView *)scrollView{
-
+    NSLog(@"Current: %d",_currentPageIndex);
     // Get scrolling position, and send the alpha values.
     float scrollingPosition = scrollView.contentOffset.x / _windowSize.width;
     if (scrollingPosition>=3.85) {
         [_startButton setHidden:false];
         [_startButton setFont:[UIFont boldSystemFontOfSize:22]];
-    }else [_startButton setHidden:true];
+        _autoScrollLooping=NO;
+        _autoScrollEnabled=NO;
+    }else{
+    [_startButton setHidden:true];
+    _autoScrollLooping=YES;
+    _autoScrollEnabled=YES;
+        
+    }
     
     [self disolveBackgroundWithContentOffset:scrollingPosition];
     
-    if (_scrollView.isTracking)
+    if (_scrollView.isTracking){
         _currentState = ScrollingStateManual;
+    }
 }
 
 - (void)scrollViewDidEndDecelerating:(UIScrollView *)scrollView{
     // Update the page index.
     [_pageControl setCurrentPage:_currentPageIndex];
 }
-
 @end
