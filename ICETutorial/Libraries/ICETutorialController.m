@@ -121,7 +121,7 @@
 }
 
 #pragma mark - Pages
-// Set the list of pages (ICETutorialPage)
+// Set the list of pages (ICETutorialPag
 - (void)setPages:(NSArray *)pages{
     _pages = pages;
 }
